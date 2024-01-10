@@ -10,56 +10,37 @@
 
 ## Grup Bilgileri
 
-| Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
-|------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 123456789  | Fatih BAL			| Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
-| 987654321  | Öğrenci Adı Soyadı   | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
-| 456789123  | Öğrenci Adı Soyadı   | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
+| Öğrenci No | Adı Soyadı           | Bölüm          		      | Proje Grup No  | Grup Üyelerinin Github Profilleri                 |
+|------------|----------------------|--------------------------|----------------|---------------------------------------------------|
+| 1200505010  | Hatice Ezici			| Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
+| 1200505027  | Çağlar Aras         | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
+| 1200505018  | Zekeriya Koç        | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
+| 1200505055  | Ertuğrul Candan     | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
 
 ---
 
 ## Proje Açıklaması
 
-Buraya proje ile ilgili genel bir açıklama ekleyin. Projenizin amacı, kapsamı, kullanılan teknolojiler ve belki de projenin nasıl çalıştırılacağı gibi önemli bilgileri içermelidir.
-
----
-
-## Proje Dosya Yapısı
-
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
-- **/src**
-  - **/components**
-    - `Component1.js`
-    - `Component2.js`
-  - **/utils**
-    - `utility.js`
-- **/public**
-  - `index.html`
-- `README.md`
-- `LICENSE`  
-
-
----
-
-## Kurulum
-
-Projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için adımları buraya ekleyin.  
-Gerekli bağımlılıkların nasıl yükleneceği (veri seti, kullanılan kütüphanelerin sürümleri vs.), konfigürasyon adımları vb. bu bölümde bulunabilir.
+Çalışmamızda kullandığımız veri setinde Akciğer Kolon Hastalık türlerine ait görüntüler yer almaktadır. Zatürre 
+hastalığının Viral mi yoksa Bakteriyel mi olduğuna dair görüntüler bulunmaktadır. Bu durum dahilinde %80’ini Train, %20’sini Test olarak, eğitim verisi olarak ayırdığınız görüntülerin %10’ununu validation olarak kullanarak proje gerçekleştirilmiştir.CNN , ANN model tasarımı ve başarı oranları projede mevcuttur.
 
 ---
 
 ## Kullanım
 
-Projenin nasıl kullanılacağına dair bilgileri ekleyin. Örneğin, projenizi bir kişi bilgisayarına indirdiğinde sorunsuz bir şekilde çalıştırması için yapması gereken adımları listeleyin.
+Projeyi indirip colab üzerinden veya içeriği çalışırabilcek editörlerden projeyi görüntüleyebilirsiniz.
 
 ---
 
 ## Katkılar
-
-Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
+https://www.udemy.com/course/deep-learning-ve-python-adan-zye-derin-ogrenme-5/learn/lecture/11742020?start=210#content
 
 ---
 
 ## İletişim
 
-Proje ile ilgili iletişim bilgileri veya bağlantılarınızı ekleyin. Örneğin, e-posta adresleri, sosyal medya hesapları vb.
+Çağlar Aras - caglararas67@gmail.com
+Hatice Ezici - haticeezici9@gmail.com
+Ertuğrul Candan - ertugrulcandan03@gmail.com
+Zekeriya Koç - zkoc714@gmail.com
+
