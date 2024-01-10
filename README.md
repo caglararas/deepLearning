@@ -12,10 +12,10 @@
 
 | Öğrenci No | Adı Soyadı           | Bölüm          		      | Proje Grup No  | Grup Üyelerinin Github Profilleri                 |
 |------------|----------------------|--------------------------|----------------|---------------------------------------------------|
-| 1200505010  | Hatice Ezici			| Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
-| 1200505027  | Çağlar Aras         | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
-| 1200505018  | Zekeriya Koç        | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
-| 1200505055  | Ertuğrul Candan     | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/balfatih)     |
+| 1200505010  | Hatice Ezici			| Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/haticeezici)     |
+| 1200505027  | Çağlar Aras         | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/caglararas)     |
+| 1200505018  | Zekeriya Koç        | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/zekokoc)     |
+| 1200505055  | Ertuğrul Candan     | Yazılım Mühendisliği     | PROJE_16       | [Github](https://github.com/Ertcan)     |
 
 ---
 
